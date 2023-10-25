@@ -1,11 +1,13 @@
-h1 {
+
+#titulo {
     font-size:30px;
     text-align: center;
+    color: rgb(165, 42, 87);
 }
 
 
-p{
+.texto{
     text-align: center;
-    color:red;
+    color:#ff006a;
     font-size: 20px;
 }

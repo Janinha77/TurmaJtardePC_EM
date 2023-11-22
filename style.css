@@ -21,3 +21,8 @@ background-color: #FFC0CB;
     margin: 20px;
     padding: 5px;
 }
+.titulo {
+    background-image: linear-gradient(#FF00FF, #EE82EE);
+    color: #8B008B;
+
+}

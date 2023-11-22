@@ -15,3 +15,8 @@ background-color: #FFC0CB;
     color:#ff006a;
     font-size: 20px;
 }
+#banner {
+    width: 50%;
+    margin: 20px;
+    padding: 5px;
+}

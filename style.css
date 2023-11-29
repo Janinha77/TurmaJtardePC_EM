@@ -32,7 +32,8 @@ header{
     border-bottom: 2px solid black;
     font-size:20 px;
     color: #4b084b;
-
+    display: flex;
+    justify-content: space-around;
 }
 
 .cabecalho-titulo {

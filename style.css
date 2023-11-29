@@ -50,6 +50,10 @@ header{
     margin: 20px;
     border-radius: 10px;
 }
+.cabecalho-item {
+    display: inline-block
+}
+
 .lista {
     color:#ff006a;
 }

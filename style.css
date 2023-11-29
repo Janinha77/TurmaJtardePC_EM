@@ -27,3 +27,11 @@ background-color: #FFC0CB;
     color: #8B008B;
 
 }
+header{
+    padding:20px;
+    background-color:rgba(210, 23, 154, 0.607);
+    border-bottom: 2px solid black;
+    font-size:20 px;
+    color: #4b084b;
+
+}
